@@ -1,2 +1,8 @@
 # Student-Life-Tracker
-final project with all parts
+
+brief description
+
+Purpose of Database
+Technology used
+Instructions to Run SQL Script
+ERD
