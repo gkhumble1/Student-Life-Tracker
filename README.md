@@ -16,3 +16,5 @@ It helps track coursework, deadlines, study habits, meetings, and grades—makin
 ---
 
 # Technologies Used 
+
+<img width="912" height="741" alt="ERD " src="https://github.com/user-attachments/assets/70c19505-680d-4668-a1b7-d948b6f4aebf" />
