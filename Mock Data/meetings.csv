@@ -1,0 +1,41 @@
+meeting_id,user_id,course_id,meeting_type,start_time,location,notes
+1,13,9,Group,2025-09-23 22:12:08,Campus,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Campus."
+2,2,7,Advisor,2025-08-03 19:25:07,Zoom,"Discussed academic plan, course registration, and career goals. Meeting held at Zoom."
+3,36,2,Group,2025-09-04 20:54:01,Campus,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Campus."
+4,38,3,Other,2025-09-29 21:47:56,Zoom,General check-in to review progress and address questions. Location: Zoom.
+5,20,8,Tutor,2025-09-18 15:39:23,Cafe,Reviewed homework and prepared for upcoming exam. Focused on challenging topics. Location: Cafe.
+6,13,8,Tutor,2025-06-22 05:09:19,Cafe,Reviewed homework and prepared for upcoming exam. Focused on challenging topics. Location: Cafe.
+7,31,2,Other,2025-09-15 08:49:07,Zoom,General check-in to review progress and address questions. Location: Zoom.
+8,30,3,Advisor,2025-08-27 00:19:29,Library,"Discussed academic plan, course registration, and career goals. Meeting held at Library."
+9,33,7,Other,2025-08-04 16:12:57,Library,General check-in to review progress and address questions. Location: Library.
+10,37,8,Group,2025-06-29 07:24:37,Campus,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Campus."
+11,7,,Advisor,2025-07-21 18:03:56,Campus,"Discussed academic plan, course registration, and career goals. Meeting held at Campus."
+12,17,9,Group,2025-10-10 07:53:06,Campus,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Campus."
+13,26,9,Professor,2025-06-30 21:04:31,Cafe,"Met to clarify lecture topics, discuss assignment feedback, and talk about research opportunities. Location: Cafe."
+14,35,10,Group,2025-07-03 13:06:04,Library,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Library."
+15,4,,Group,2025-09-30 01:25:58,Library,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Library."
+16,13,3,Group,2025-08-29 15:48:54,Library,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Library."
+17,19,7,Advisor,2025-08-16 00:44:37,Library,"Discussed academic plan, course registration, and career goals. Meeting held at Library."
+18,8,1,Tutor,2025-10-07 22:12:34,Zoom,Reviewed homework and prepared for upcoming exam. Focused on challenging topics. Location: Zoom.
+19,34,2,Tutor,2025-10-06 23:07:00,Zoom,Reviewed homework and prepared for upcoming exam. Focused on challenging topics. Location: Zoom.
+20,16,,Professor,2025-08-04 15:22:54,Zoom,"Met to clarify lecture topics, discuss assignment feedback, and talk about research opportunities. Location: Zoom."
+21,5,9,Other,2025-07-27 03:55:39,Cafe,General check-in to review progress and address questions. Location: Cafe.
+22,8,10,Other,2025-07-06 09:21:11,Cafe,General check-in to review progress and address questions. Location: Cafe.
+23,39,1,Advisor,2025-07-08 21:02:49,Campus,"Discussed academic plan, course registration, and career goals. Meeting held at Campus."
+24,19,4,Group,2025-09-02 22:23:26,Cafe,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Cafe."
+25,26,8,Group,2025-10-01 20:24:14,Zoom,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Zoom."
+26,38,10,Professor,2025-10-06 21:34:25,Zoom,"Met to clarify lecture topics, discuss assignment feedback, and talk about research opportunities. Location: Zoom."
+27,2,5,Other,2025-07-08 13:36:55,Zoom,General check-in to review progress and address questions. Location: Zoom.
+28,15,7,Group,2025-06-24 16:33:41,Library,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Library."
+29,15,,Group,2025-09-17 08:14:47,Campus,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Campus."
+30,17,10,Tutor,2025-09-13 15:42:13,Campus,Reviewed homework and prepared for upcoming exam. Focused on challenging topics. Location: Campus.
+31,22,1,Professor,2025-09-03 23:22:43,Campus,"Met to clarify lecture topics, discuss assignment feedback, and talk about research opportunities. Location: Campus."
+32,20,,Professor,2025-08-14 19:49:00,Zoom,"Met to clarify lecture topics, discuss assignment feedback, and talk about research opportunities. Location: Zoom."
+33,27,9,Group,2025-07-30 03:27:37,Campus,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Campus."
+34,37,2,Group,2025-09-16 12:42:05,Cafe,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Cafe."
+35,12,8,Professor,2025-07-03 21:17:16,Cafe,"Met to clarify lecture topics, discuss assignment feedback, and talk about research opportunities. Location: Cafe."
+36,30,1,Group,2025-08-28 22:10:11,Library,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Library."
+37,30,7,Other,2025-09-08 18:05:05,Cafe,General check-in to review progress and address questions. Location: Cafe.
+38,35,,Group,2025-07-06 11:44:50,Cafe,"Collaborated with classmates on group project, assigned tasks, and set deadlines. Location: Cafe."
+39,19,3,Tutor,2025-10-09 12:12:53,Zoom,Reviewed homework and prepared for upcoming exam. Focused on challenging topics. Location: Zoom.
+40,25,3,Tutor,2025-09-23 04:48:13,Zoom,Reviewed homework and prepared for upcoming exam. Focused on challenging topics. Location: Zoom.
